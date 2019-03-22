@@ -12,6 +12,8 @@
 ![介紹](https://media.discordapp.net/attachments/550736228014882851/558649968521510922/unknown.png)
 
   如上圖可見，任何更新，以及問題回報都可以使用Github內有的功能進行。
+  
+  若有任何問題，歡迎到 Discord 私訊 ```Eric Lam#7636``` 。
 
 ## 查看更新
   ![演示](https://media.discordapp.net/attachments/195774113141227520/558652567882825728/unknown.png)
@@ -19,6 +21,9 @@
   進入之後會出現以下內容:
   
   ![內部](https://cdn.discordapp.com/attachments/195774113141227520/558653052966404106/unknown.png)
+  
+## 加入我們?
+  若打算一起在這邊共同分享開源插件，可以私訊本人，並提供你的 Github ID。
   
 ## 委託
 
